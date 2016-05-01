@@ -1,0 +1,28 @@
+name: margie montserrat
+favicon: null
+layout_spectrum: 0.7784554015379399
+typography_spectrum: 0.5524151278659701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23750919150188565
+  lightness: 0.3320071136113256
+  saturation: 0.038552478421479464
+  rhythmicContrast: 0.03428283100947738
+purpose: []
